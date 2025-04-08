@@ -1,7 +1,5 @@
 # Netflix Data Analysis: Mental Health & Cultural Diversity
 
-![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/7/77/Netflix_avatar.png)
-
 An exploratory analysis of Netflix titles (2010-2023) to evaluate representation of mental health themes and cultural diversity.
 
 **Current Status**: Baseline analysis completed | Next steps outlined below
